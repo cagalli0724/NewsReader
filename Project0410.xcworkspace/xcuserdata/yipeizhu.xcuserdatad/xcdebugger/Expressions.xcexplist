@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NewsDataStore.append(Int, NewsDataItem) -&gt; ():NewsDataStore.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "allItems.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FavoriteController.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:FavoriteController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "favoriteStore">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsViewController.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:NewsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SelectedIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsDataStore.appendItemCount(Int) -&gt; ():NewsDataStore.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "allItemsCount[index]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsViewController.collectionView(UICollectionView, didSelectItemAt : IndexPath) -&gt; ():NewsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "SelectedIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyTabBarController.viewDidLoad() -&gt; ():MyTabBarController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "emailName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static DataProcessing.(NewAdd(NewsDataStore, [String : AnyObject], Int, NewsViewController) -&gt; ()).(closure #1):DataProcessing.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "IndexNum">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NewsViewController.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:NewsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "itemStore.allItemsCount[indexStore.SelectedIndex]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
